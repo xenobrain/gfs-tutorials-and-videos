@@ -1,3 +1,5 @@
+___________________________
+
 ***Blender***
 
 **Videos**
@@ -9,6 +11,7 @@ Setup and Export PBR Materials to Godot <https://www.youtube.com/watch?v=gcft7kF
 Blender 2.8 How to make a Sprite Sheet <https://www.youtube.com/watch?v=-zpORxZF4FE>
 30 File Formats in Blender and their Issues <https://www.youtube.com/watch?v=G5ZkcJVr1JE>
 Anime Square UV Mapping <https://www.youtube.com/watch?v=okB8EUxPTKs>
+Anime Hair Shading <https://www.youtube.com/watch?v=iHy5GjQmxTc>
 Using Blender for Quick Pixel Art Characters
 <https://youtu.be/SrlzcHzVWO8>
 Modeling Circular Hard Surface Details <https://www.youtube.com/watch?v=tHnKR8DB1gg>

@@ -1,3 +1,5 @@
+___________________________
+
 ***Programming***
 
 **Video Channels**
@@ -6,6 +8,9 @@ Tutemic - Math, Design Patterns <https://youtu.be/Zp4tJQJKIPs>
 **Videos**
 Five Ways to Improve Your Code <https://youtu.be/1KeJc6V4Jjk>
 How Thinking in Systems Can Improve Your Code <https://www.youtube.com/watch?v=uITOjsZFzyc>
+
+**Blogs and Books**
+Collision Detection <http://www.jeffreythompson.org/collision-detection/index.php>
 
 ***C/C++***
 

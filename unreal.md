@@ -1,3 +1,5 @@
+___________________________
+
 ***Unreal***
 
 **Video Channels**
@@ -10,3 +12,4 @@ UE5 How to create Photorealistic Architectural Visualizations <https://youtu.be/
 UE5 Beginner Tutorial <https://www.youtube.com/watch?v=gQmiqmxJMtA>
 UE4 How to Blend Objects with Your Landscape <https://3dtotal.com/news/general/ue4-how-to-blend-objects-with-your-landscape>
 ALS C++ Framework <https://www.youtube.com/watch?v=YEbIzl_DQbM>
+Blueprints vs C++: How they fit together <https://www.youtube.com/watch?v=VMZftEVDuCE>
