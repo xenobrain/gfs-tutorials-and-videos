@@ -14,3 +14,4 @@ Fixing Memory Leaks <https://www.youtube.com/watch?v=U6zHnNffnGE>
 Moving Platform No Code <https://www.youtube.com/watch?v=kJNvoIaZggw>
 Creating a PS1 Resident Evil Prerendered Background System <https://www.youtube.com/watch?v=oFMcilEdfs0>
 Snow Effects <https://youtu.be/BXo97H55EhA>
+Fast Stylized Volumetric Lighting <https://www.youtube.com/watch?v=y59QJg7yNkM>
