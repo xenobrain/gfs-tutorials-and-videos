@@ -57,3 +57,11 @@ https://discord.com/channels/696089433665044522/785953701931253790/8675150770662
 How to make a design document
 https://discord.com/channels/696089433665044522/717090932683571291/875467257596248125 
 Reason: These are being moved into other sections.  Saved here for backup
+
+Pikatucy
+ — 
+06/02/2022
+Hello everyone, This is my first course made on Udemy on how to come up with the game idea
+----
+Grab this course as soon as possible for FREE!
+https://www.udemy.com/course/complete-guide-to-come-up-with-game-idea/?couponCode=FREE02
